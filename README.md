@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects, Tool based Website, Digital Marketing Task Automation, Lead Generation**  
 - 🌱 I’m currently learning **AI Automation**  
-- 💼 Founder of [Empire Digisol](https://www.linkedin.com/company/empire-digisol)  
+- 💼 Founder of [Empire Digisol](https://www.linkedin.com/company/empiredigisol/)  
 - 📫 How to reach me: **muhammadahmed7863@gmail.com**  
 
 ---
