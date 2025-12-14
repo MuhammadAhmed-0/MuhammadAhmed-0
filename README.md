@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">Web Developer | Digital Marketer</h3>
+<h3 align="center">Web Developer | Digital Marketer | Project Manager </h3>
 
 - 🔭 I’m currently working on **Web Development Projects, Tool based Website, Digital Marketing Task Automation, Lead Generation**  
 - 🌱 I’m currently learning **AI Automation**  
